@@ -177,5 +177,5 @@ jobs:
   ```bash
   git add .
   git commit -m "github action update"
-  git push downstream main
+  git push origin main
   ```
