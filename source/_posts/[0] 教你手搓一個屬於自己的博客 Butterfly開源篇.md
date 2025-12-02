@@ -1,5 +1,5 @@
 ---
-title: 教你手搓一個屬於自己的博客 Butterfly開源篇（實現基於GitHub Actions的全自動部署Hexo）
+title: '[0] 教你手搓一個屬於自己的博客 Butterfly開源篇（實現基於GitHub Actions的全自動部署Hexo）'
 comments: false
 date: 2025-09-27 03:30:33
 tags:
